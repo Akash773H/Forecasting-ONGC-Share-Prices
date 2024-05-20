@@ -1,1 +1,2 @@
 # Forecasting-ONGC-Share-Prices
+This project focuses on forecasting the monthly average share price of ONGC. I predicted the stock value for May 2024 and compared it to the actual value. The data, covering the period from April 1, 2014, to April 1, 2024, was sourced from Yahoo Finance. The forecasting models employed include the Moving Average, Naive Bayes Predictive Model, Exponential Smoothing, and ARIMA. The error margins for each model were 0.39%, 3.65%, 2.90%, and 4.33%, respectively.
